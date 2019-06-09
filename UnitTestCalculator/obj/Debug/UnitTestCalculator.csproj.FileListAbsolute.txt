@@ -1,0 +1,17 @@
+C:\Users\jatinder.singh\source\repos\UnitTestCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jatinder.singh\source\repos\UnitTestCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jatinder.singh\source\repos\UnitTestCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jatinder.singh\source\repos\UnitTestCalculator\bin\Debug\UnitTestCalculator.dll
+C:\Users\jatinder.singh\source\repos\UnitTestCalculator\bin\Debug\UnitTestCalculator.pdb
+C:\Users\jatinder.singh\source\repos\UnitTestCalculator\bin\Debug\CalculatorWithClass.exe
+C:\Users\jatinder.singh\source\repos\UnitTestCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jatinder.singh\source\repos\UnitTestCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jatinder.singh\source\repos\UnitTestCalculator\bin\Debug\CalculatorWithClass.pdb
+C:\Users\jatinder.singh\source\repos\UnitTestCalculator\bin\Debug\CalculatorWithClass.exe.config
+C:\Users\jatinder.singh\source\repos\UnitTestCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jatinder.singh\source\repos\UnitTestCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jatinder.singh\source\repos\UnitTestCalculator\obj\Debug\UnitTestCalculator.csprojAssemblyReference.cache
+C:\Users\jatinder.singh\source\repos\UnitTestCalculator\obj\Debug\UnitTestCalculator.csproj.CoreCompileInputs.cache
+C:\Users\jatinder.singh\source\repos\UnitTestCalculator\obj\Debug\UnitTestCalculator.csproj.CopyComplete
+C:\Users\jatinder.singh\source\repos\UnitTestCalculator\obj\Debug\UnitTestCalculator.dll
+C:\Users\jatinder.singh\source\repos\UnitTestCalculator\obj\Debug\UnitTestCalculator.pdb
