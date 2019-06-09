@@ -2,7 +2,7 @@
 
 namespace CalculatorWithClass
 {
-    class Calulator
+    public class Calulator
     {
         int num1, num2, result; //Initialize the variables
 
